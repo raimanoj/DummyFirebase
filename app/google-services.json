@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275890538464",
+    "project_id": "dummyfirbase",
+    "storage_bucket": "dummyfirbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275890538464:android:ccd342e6f6fe707f6dcd85",
+        "android_client_info": {
+          "package_name": "com.mj.dummyfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275890538464-hpi5uu6vfsiqvabuflf8iqdd70ju286h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCK9Klx5DkfPvNKNqJJ1xofCJiryEYJes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275890538464-hpi5uu6vfsiqvabuflf8iqdd70ju286h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
